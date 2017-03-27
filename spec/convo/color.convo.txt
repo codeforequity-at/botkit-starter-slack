@@ -1,4 +1,4 @@
-color
+Should ask for color when I say "color"
 
 #bot #private
 I am a bot that has just joined your team
@@ -20,4 +20,3 @@ green
 
 #bot #private
 Cool, I like green too!
-

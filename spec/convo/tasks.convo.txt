@@ -1,0 +1,29 @@
+Should add a task posted on #general to task list, when direct mentioned
+
+#bot #private
+I am a bot that has just joined your team
+
+#bot #private
+You must now /invite me to a channel so that I can be of use!
+
+#me #general
+@testmybot add my task
+
+#bot #general
+thumbsup
+
+#me #private
+tasks
+
+#bot #private
+my task
+
+#me #private
+done 1
+
+#bot #private
+my task
+
+#bot #private
+Your list is now empty!
+
