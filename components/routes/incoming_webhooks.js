@@ -5,6 +5,8 @@ module.exports = function(webserver, controller) {
     debug('Configured /slack/receive url');
     webserver.post('/slack/receive', function(req, res) {
 
+        console.log('/slack/receive active ' + req);
+    
         // NOTE: we should enforce the token check here
 
         // respond to Slack that the webhook has been received.

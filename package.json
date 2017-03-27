@@ -4,7 +4,8 @@
   "description": "A starter kit for building a custom Slack bot with Botkit Studio",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "clientId=159753246482.159685134291 clientSecret=b993ecebb034fe06bb05e2e31bc8f465 PORT=3000 node bot.js",
+    "start_testmybot": "DEBUG=* clientId=159753246482.159685134291 clientSecret=b993ecebb034fe06bb05e2e31bc8f465 PORT=3000 node bot.js"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
